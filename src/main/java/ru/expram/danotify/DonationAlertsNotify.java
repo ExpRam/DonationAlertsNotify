@@ -33,7 +33,6 @@ public class DonationAlertsNotify {
         });
     }
 
-
     public void connect() {
         try {
             socket.connect();
