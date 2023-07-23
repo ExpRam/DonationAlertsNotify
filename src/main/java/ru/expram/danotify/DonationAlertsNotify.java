@@ -44,9 +44,5 @@ public class DonationAlertsNotify {
         } catch (JSONException e) {
             e.printStackTrace();
         }
-
-
-
     }
-
 }
